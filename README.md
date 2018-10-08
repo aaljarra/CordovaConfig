@@ -91,7 +91,9 @@ can open phone builtin Maps ?
  Yes
  No
  I don’t know
+
 Post Survey Questions A & B
+============================
 1. Check the plugins that are NOT used in this app:
  Compass
  Geolocation
